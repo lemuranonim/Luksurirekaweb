@@ -4,7 +4,7 @@ import { Mail, Phone, MapPin, Send, CheckCircle2 } from "lucide-react";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { Textarea } from "./ui/textarea";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 import { useTheme } from "../contexts/ThemeContext";
 import { useLanguage } from "../contexts/LanguageContext";
 
